@@ -8,4 +8,4 @@ An iOS developer from China.
 - 💬 Contact me with [e-mail](mailto:ygliusz@gmail.com).
 
 
-[![recherst's GitHub stats](https://github-readme-stats.vercel.app/api?username=recherst&count_private=true&theme=highcontrast)](https://github.com/recherst/github-readme-stats)
+[![recherst's GitHub stats](https://github-readme-stats.vercel.app/api?username=recherst&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/recherst/github-readme-stats)
