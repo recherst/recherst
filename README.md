@@ -1,4 +1,4 @@
-### Hi everyone, I'm @recherst 👋
+### Hi, I'm @recherst 👋
 
 An iOS developer from China.
 
