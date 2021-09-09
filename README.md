@@ -7,4 +7,4 @@ An iOS developer from China.
 - 🎸 Music and guitar lover
 
 
-[![recherst's GitHub stats](https://github-readme-stats.vercel.app/api?username=recherst&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/recherst/github-readme-stats)
+[![recherst's GitHub stats](https://github-readme-stats.vercel.app/api?username=recherst&count_private=true&show_icons=true)](https://github.com/recherst/github-readme-stats)
