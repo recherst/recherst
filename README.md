@@ -1,6 +1,5 @@
-### Hi, I'm @recherst 👋
+### Hello world! I'm @recherst 👋
 
-An iOS developer from China.
 
 - 🔭 Working on iOS and some a little Vue.js skills
 - ❤️ Interested in SwiftUI
